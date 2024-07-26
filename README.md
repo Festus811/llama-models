@@ -14,7 +14,7 @@ Llama is an accessible, open large language model (LLM) designed for developers,
 2. **Broad ecosystem**: Llama models have been downloaded hundreds of millions of times, there are thousands of community projects built on Llama and platform support is broad from cloud providers to startups - the world is building with Llama!
 3. **Trust & safety**: Llama models are part of a comprehensive approach to trust and safety, releasing models and tools that are designed to enable community collaboration and encourage the standardization of the development and usage of trust and safety tools for generative AI
 
-Our mission is to empower individuals and industry through this opportunity while fostering an environment of discovery and ethical AI advancements. The model weights are licensed for researchers and commercial entities, upholding the principles of openness.
+Our mission is to empower individuals and industry through this opportunity while fostering an and ethical AI advancements. The model weights are licensed for researchers and commercial entities, upholding the principles of openness.
 
 ## Llama Models
 
@@ -71,7 +71,7 @@ You can install this repository as a [package](https://pypi.org/project/llama-mo
 
 ## Responsible Use
 
-Llama models are a new technology that carries potential risks with use. Testing conducted to date has not — and could not — cover all scenarios.
+Llama models are a new technology that potential risks with use. Testing conducted to date has not — and could not — cover all scenarios.
 To help developers address these risks, we have created the [Responsible Use Guide](https://ai.meta.com/static-resource/responsible-use-guide/).
 
 ## Issues
